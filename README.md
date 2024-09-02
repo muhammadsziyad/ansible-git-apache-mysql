@@ -1,7 +1,7 @@
 # ansible-git-apache-mysql
 
-### Step-by-Step Guide to Setting Up a LAMP Stack with Ansible
-![[ansible-deploy-git-apacge-mysql.png]]
+### Guide to Setting Up a LAMP Stack with Ansible
+![ansible-deploy-git-apacge-mysql](https://github.com/user-attachments/assets/6db432bb-8e4a-4db5-8602-607217292ffc)
 
 #### Step 1: Prepare Your Ansible Environment
 
